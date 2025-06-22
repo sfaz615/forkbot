@@ -1,0 +1,1 @@
+curl -X POST http://127.0.0.1:5000/webhook -H "Content-Type: application/json" -d "{\"symbol\":\"TSLA\",\"strike\":\"310p\",\"entry\":\"0.22\",\"contracts\":2,\"conviction\":\"High\",\"status\":\"Open\",\"type\":\"0DTE\"}"

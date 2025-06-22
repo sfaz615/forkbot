@@ -12,7 +12,7 @@ ForkBot listens for JSON-formatted webhook messages and sends clean, color-coded
 
 Below is a real-world execution using ForkBot's alert logic. Entry was based on rejection at resistance, with conviction-level breakdowns tracked in real-time.
 
-![VSC Trade Recap](./media/vsc_trade_recap_333_breakdown.jpeg)
+![VSC Trade Recap](charts/vsc_trade_recap_333_breakdown.jpeg)
 
 ---
 

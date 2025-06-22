@@ -44,13 +44,6 @@ ForkBot listens for JSON-formatted webhook messages and sends clean, color-coded
 
 ---
 
-## 📸 Profile Icons
-
-- GitHub Profile: Ninja AI aesthetic 🥷  
-- ForkBot Logo: Dark-mode VSC vector 🔧
-
----
-
 > Built with focus, conviction, and operator energy.  
 > *“We don’t wait for permission — we trigger forks.”*
 

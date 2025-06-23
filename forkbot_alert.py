@@ -1,6 +1,6 @@
 import requests
 
-webhook_url = 'https://discord.com/api/webhooks/138569283396433/XKZyY5avJhSlfse_VDz1lSoRJ5YjF15A1qjxXzcCI1SB6FKO6J7'
+webhook_url = "https://discord.com/api/webhooks/your_webhook_here"
 
 payload = {
     "username": "ForkBot 🥷",

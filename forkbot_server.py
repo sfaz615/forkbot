@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/13856928339659873/XKZyY5avJhSlfse_VDz1lSoRJ5Ym2u2FnjF15A1qjx0OAGOKEH1SB6FKO6J7"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/your_webhook_here"
 
 TYPE_COLORS = {
     "0DTE": 0xFF5733,

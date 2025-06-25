@@ -14,7 +14,7 @@ ForkBot listens for JSON-formatted webhook messages and sends clean, color-coded
 ## ✅ Core Features
 
 - 🔗 **Webhook Integration**: TradingView → ForkBot → Discord  
-- 📊 **Synthetic Fork Triggers**: Manually input nightly fork levels  
+- 📊 **Synthetic Fork Triggers**:   Contract minimums scale based on fork strength
 - 🔔 **Discord Alerts** with:
   - Symbol & Strike
   - Entry Price
@@ -22,8 +22,8 @@ ForkBot listens for JSON-formatted webhook messages and sends clean, color-coded
   - Conviction Level
   - Trade Status: `Open` / `Closed`
   - Type: `0DTE`, `Weekly`, `Swing`, `LEAP` — *Color-coded*
-- 🧠 **Strategic Scaling Support**: Minimum contract logic based on conviction
-- 📁 **Trade Logging to Excel** *(WIP phase)*
+- 🧠 **Strategic Scaling Support**: Contract minimums scale based on fork strength
+- 📁 **Logging Support** (WIP): Trade journaling to Excel for P&L tracking
 
 ---
 
@@ -43,6 +43,8 @@ ForkBot listens for JSON-formatted webhook messages and sends clean, color-coded
 🧪 Testing & Logging Ongoing  
 🚀 Feature Expansion Planned
 
+🧵**Why It Matters**
+ForkBot isn’t another bot — it’s a tactical extension of a conviction-based system built by a trader, for traders. When timing matters and signals are everything, ForkBot gets the message through.
 ---
 
 > Built with focus, conviction, and operator energy.  

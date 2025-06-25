@@ -43,8 +43,6 @@ ForkBot listens for JSON-formatted webhook messages and sends clean, color-coded
 🧪 Testing & Logging Ongoing  
 🚀 Feature Expansion Planned
 
-🧵**Why It Matters**
-ForkBot isn’t another bot — it’s a tactical extension of a conviction-based system built by a trader, for traders. When timing matters and signals are everything, ForkBot gets the message through.
 ---
 
 > Built with focus, conviction, and operator energy.  
